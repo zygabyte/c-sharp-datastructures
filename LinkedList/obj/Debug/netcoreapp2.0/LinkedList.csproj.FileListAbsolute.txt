@@ -1,0 +1,10 @@
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.AssemblyInfo.cs
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.deps.json
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.runtimeconfig.json
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.runtimeconfig.dev.json
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.dll
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.pdb
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.dll
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.pdb

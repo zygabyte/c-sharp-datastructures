@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ehioghae.eseosa\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_LinkedList.-1839254376.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList" t="IncludeFlat">
+      <e p="LinkedList" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LinkedList.csproj" t="IncludeRecursive" />
+        <e p="Node.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="LinkedList.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SinglyLinkedList.cs" t="Include" />
+      </e>
+      <e p="LinkedList.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Queue" t="IncludeRecursive">
+        <e p="ArrayQueue.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LinkedQueue.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Queue.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Queue.cs" t="Include" />
+        <e p="Queue.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Services" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Services.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Services.csproj" t="IncludeRecursive" />
+        <e p="Utilities.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

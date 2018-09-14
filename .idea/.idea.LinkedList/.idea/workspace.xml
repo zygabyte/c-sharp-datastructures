@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cd6afae-f06b-4e9d-8199-6f8abf6ae212" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedList/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+              <folding>
+                <marker date="1536767741118" expanded="true" signature="53:1072" ph="{...}" />
+                <marker date="1536767741118" expanded="true" signature="73:1070" ph="{...}" />
+                <marker date="1536767741118" expanded="true" signature="119:1064" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SinglyLinkedList.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedList/SinglyLinkedList.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="101" selection-end-column="1" />
+              <folding>
+                <marker date="1536774121658" expanded="true" signature="35:2920" ph="{...}" />
+                <marker date="1536774121658" expanded="true" signature="74:2918" ph="{...}" />
+                <marker date="1536774121658" expanded="true" signature="259:420" ph="{...}" />
+                <marker date="1536774121658" expanded="true" signature="453:613" ph="{...}" />
+                <marker date="1536774121658" expanded="true" signature="654:785" ph="{...}" />
+                <marker date="1536774121658" expanded="true" signature="833:1048" ph="{...}" />
+                <marker date="1536774121658" expanded="true" signature="1080:1368" ph="{...}" />
+                <marker date="1536774121658" expanded="true" signature="1410:2172" ph="{...}" />
+                <marker date="1536774121658" expanded="true" signature="1669:1776" ph="{...}" />
+                <marker date="1536774121658" expanded="true" signature="1854:2162" ph="{...}" />
+                <marker date="1536774121658" expanded="true" signature="1925:2092" ph="{...}" />
+                <marker date="1536774121658" expanded="true" signature="2283:2912" ph="{...}" />
+                <marker date="1536774121658" expanded="true" signature="2403:2784" ph="{...}" />
+                <marker date="1536774121658" expanded="true" signature="2512:2729" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utilities.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Services/Utilities.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="19" column="11" selection-start-line="8" selection-start-column="9" selection-end-line="19" selection-end-column="11" />
+              <folding>
+                <marker date="1536766961082" expanded="true" signature="0:988" ph="/* using System; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Queue/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="162" column="41" selection-start-line="162" selection-start-column="41" selection-end-line="162" selection-end-column="41" />
+              <folding>
+                <marker date="1536775447026" expanded="true" signature="30:6763" ph="{...}" />
+                <marker date="1536775447026" expanded="true" signature="50:6761" ph="{...}" />
+                <marker date="1536775447026" expanded="true" signature="96:6755" ph="{...}" />
+                <marker date="1536775447026" expanded="true" signature="122:6634" ph="{...}" />
+                <marker date="1536775447026" expanded="true" signature="6666:6732" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Queue.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Queue/Queue.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <marker date="1536767876764" expanded="true" signature="15:203" ph="{...}" />
+                <marker date="1536767876764" expanded="true" signature="47:201" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayQueue.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Queue/ArrayQueue.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="57" selection-end-column="1" />
+              <folding>
+                <marker date="1536775214993" expanded="true" signature="30:1550" ph="{...}" />
+                <marker date="1536775214993" expanded="true" signature="74:1548" ph="{...}" />
+                <marker date="1536775214993" expanded="true" signature="242:299" ph="{...}" />
+                <marker date="1536775214993" expanded="true" signature="416:578" ph="{...}" />
+                <marker date="1536775214993" expanded="true" signature="616:846" ph="{...}" />
+                <marker date="1536775214993" expanded="true" signature="874:1151" ph="{...}" />
+                <marker date="1536775214993" expanded="true" signature="1185:1542" ph="{...}" />
+                <marker date="1536775214993" expanded="true" signature="1310:1488" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedQueue.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Queue/LinkedQueue.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+              <folding>
+                <marker date="1536787916386" expanded="true" signature="34:552" ph="{...}" />
+                <marker date="1536787916386" expanded="true" signature="79:550" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedList/Node.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <marker date="1536703251868" expanded="true" signature="20:268" ph="{...}" />
+                <marker date="1536703251868" expanded="true" signature="47:266" ph="{...}" />
+                <marker date="1536703251868" expanded="true" signature="175:251" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Class1</find>
+      <find>queue</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Services/Utilities.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/d2/514c12b3/IndexOutOfRangeException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Queue/LinkedQueue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Queue/ArrayQueue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Queue/Queue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinkedList/SinglyLinkedList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinkedList/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Queue/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinkedList/Node.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/77/2886a144/ArgumentNullException.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LinkedList/Node.cs" />
+        <option value="$PROJECT_DIR$/Services/Class1.cs" />
+        <option value="$PROJECT_DIR$/Services/Utilities.cs" />
+        <option value="$PROJECT_DIR$/LinkedList/Program.cs" />
+        <option value="$PROJECT_DIR$/Queue/Queue.cs" />
+        <option value="$PROJECT_DIR$/LinkedList/LinkedList.csproj" />
+        <option value="$PROJECT_DIR$/LinkedList/SinglyLinkedList.cs" />
+        <option value="$PROJECT_DIR$/Queue/ArrayQueue.cs" />
+        <option value="$PROJECT_DIR$/Queue/Program.cs" />
+        <option value="$PROJECT_DIR$/Queue/LinkedQueue.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="830" />
+    <option name="y" value="170" />
+    <option name="width" value="970" />
+    <option name="height" value="595" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LinkedList (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LinkedList (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LinkedList" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LinkedList (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LinkedList" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LinkedList (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LinkedList" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETCoreApp 2" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LinkedList (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Queue" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LinkedList (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Queue" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LinkedList (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Queue" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETCoreApp 2" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LinkedList (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Queue" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETCoreApp 2" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Projects" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LinkedList (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LinkedList (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LinkedList (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETCoreApp 2" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Queue/bin/Debug/netcoreapp2.0/Queue.dll" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Queue/bin/Debug/netcoreapp2.0/Queue.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Queue/Queue.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="0" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="0" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cd6afae-f06b-4e9d-8199-6f8abf6ae212" name="Default" comment="" />
+      <created>1536699927006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536699927006</updated>
+      <workItem from="1536699940628" duration="3826000" />
+      <workItem from="1536741976656" duration="1232000" />
+      <workItem from="1536749936164" duration="1931000" />
+      <workItem from="1536760519156" duration="16725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23714000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13959731" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.32954547" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LinkedList/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1536767741118" expanded="true" signature="53:1072" ph="{...}" />
+            <marker date="1536767741118" expanded="true" signature="73:1070" ph="{...}" />
+            <marker date="1536767741118" expanded="true" signature="119:1064" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/Node.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding>
+            <marker date="1536703251868" expanded="true" signature="20:268" ph="{...}" />
+            <marker date="1536703251868" expanded="true" signature="47:266" ph="{...}" />
+            <marker date="1536703251868" expanded="true" signature="175:251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/SinglyLinkedList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <marker date="1536774121658" expanded="true" signature="35:2920" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="74:2918" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="259:420" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="453:613" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="654:785" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="833:1048" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1080:1368" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1410:2172" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1669:1776" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1854:2162" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1925:2092" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="2283:2912" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="2403:2784" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="2512:2729" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1536767741118" expanded="true" signature="53:1072" ph="{...}" />
+            <marker date="1536767741118" expanded="true" signature="73:1070" ph="{...}" />
+            <marker date="1536767741118" expanded="true" signature="119:1064" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/Node.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding>
+            <marker date="1536703251868" expanded="true" signature="20:268" ph="{...}" />
+            <marker date="1536703251868" expanded="true" signature="47:266" ph="{...}" />
+            <marker date="1536703251868" expanded="true" signature="175:251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/SinglyLinkedList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <marker date="1536774121658" expanded="true" signature="35:2920" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="74:2918" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="259:420" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="453:613" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="654:785" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="833:1048" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1080:1368" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1410:2172" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1669:1776" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1854:2162" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1925:2092" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="2283:2912" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="2403:2784" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="2512:2729" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1536767741118" expanded="true" signature="53:1072" ph="{...}" />
+            <marker date="1536767741118" expanded="true" signature="73:1070" ph="{...}" />
+            <marker date="1536767741118" expanded="true" signature="119:1064" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/Node.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <marker date="1536703251868" expanded="true" signature="20:268" ph="{...}" />
+            <marker date="1536703251868" expanded="true" signature="47:266" ph="{...}" />
+            <marker date="1536703251868" expanded="true" signature="175:251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/SinglyLinkedList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+          <folding>
+            <marker date="1536774121658" expanded="true" signature="35:2920" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="74:2918" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="259:420" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="453:613" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="654:785" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="833:1048" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1080:1368" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1410:2172" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1669:1776" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1854:2162" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1925:2092" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="2283:2912" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="2403:2784" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="2512:2729" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/77/2886a144/ArgumentNullException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/d2/514c12b3/IndexOutOfRangeException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Services/Utilities.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="11" selection-start-line="8" selection-start-column="9" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <marker date="1536766961082" expanded="true" signature="0:988" ph="/* using System; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding>
+            <marker date="1536767741118" expanded="true" signature="53:1072" ph="{...}" />
+            <marker date="1536767741118" expanded="true" signature="73:1070" ph="{...}" />
+            <marker date="1536767741118" expanded="true" signature="119:1064" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/LinkedList.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queue/Queue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1536767876764" expanded="true" signature="15:203" ph="{...}" />
+            <marker date="1536767876764" expanded="true" signature="47:201" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queue/ArrayQueue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <marker date="1536775214993" expanded="true" signature="30:1550" ph="{...}" />
+            <marker date="1536775214993" expanded="true" signature="74:1548" ph="{...}" />
+            <marker date="1536775214993" expanded="true" signature="242:299" ph="{...}" />
+            <marker date="1536775214993" expanded="true" signature="416:578" ph="{...}" />
+            <marker date="1536775214993" expanded="true" signature="616:846" ph="{...}" />
+            <marker date="1536775214993" expanded="true" signature="874:1151" ph="{...}" />
+            <marker date="1536775214993" expanded="true" signature="1185:1542" ph="{...}" />
+            <marker date="1536775214993" expanded="true" signature="1310:1488" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/SinglyLinkedList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="101" selection-end-column="1" />
+          <folding>
+            <marker date="1536774121658" expanded="true" signature="35:2920" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="74:2918" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="259:420" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="453:613" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="654:785" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="833:1048" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1080:1368" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1410:2172" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1669:1776" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1854:2162" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="1925:2092" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="2283:2912" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="2403:2784" ph="{...}" />
+            <marker date="1536774121658" expanded="true" signature="2512:2729" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queue/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="162" column="41" selection-start-line="162" selection-start-column="41" selection-end-line="162" selection-end-column="41" />
+          <folding>
+            <marker date="1536775447026" expanded="true" signature="30:6763" ph="{...}" />
+            <marker date="1536775447026" expanded="true" signature="50:6761" ph="{...}" />
+            <marker date="1536775447026" expanded="true" signature="96:6755" ph="{...}" />
+            <marker date="1536775447026" expanded="true" signature="122:6634" ph="{...}" />
+            <marker date="1536775447026" expanded="true" signature="6666:6732" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/Node.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1536703251868" expanded="true" signature="20:268" ph="{...}" />
+            <marker date="1536703251868" expanded="true" signature="47:266" ph="{...}" />
+            <marker date="1536703251868" expanded="true" signature="175:251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queue/LinkedQueue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <marker date="1536787916386" expanded="true" signature="34:552" ph="{...}" />
+            <marker date="1536787916386" expanded="true" signature="79:550" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

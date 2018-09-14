@@ -1,0 +1,13 @@
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\Queue\obj\Debug\netcoreapp2.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\Queue\obj\Debug\netcoreapp2.0\Queue.AssemblyInfoInputs.cache
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\Queue\obj\Debug\netcoreapp2.0\Queue.AssemblyInfo.cs
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\Queue\bin\Debug\netcoreapp2.0\Queue.deps.json
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\Queue\bin\Debug\netcoreapp2.0\Queue.runtimeconfig.json
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\Queue\bin\Debug\netcoreapp2.0\Queue.runtimeconfig.dev.json
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\Queue\bin\Debug\netcoreapp2.0\Queue.dll
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\Queue\bin\Debug\netcoreapp2.0\Queue.pdb
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\Queue\bin\Debug\netcoreapp2.0\LinkedList.dll
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\Queue\bin\Debug\netcoreapp2.0\LinkedList.pdb
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\Queue\obj\Debug\netcoreapp2.0\Queue.csproj.CopyComplete
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\Queue\obj\Debug\netcoreapp2.0\Queue.dll
+C:\Users\ehioghae.eseosa\Documents\Projects\Software\ASP.NET\C# Playground\Data Structures and Algorithms\DS\LinkedList\Queue\obj\Debug\netcoreapp2.0\Queue.pdb
